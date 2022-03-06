@@ -38,7 +38,17 @@ const githubUrls = [
   'github-production-repository-file-5c1aeb.s3.amazonaws.com',
   'githubstatus.com',
   'github.community',
-  'media.githubusercontent.com'
+  'media.githubusercontent.com',
+  'steamcommunity.com',
+  'www.steamcommunity.com',
+  'store.steampowered.com',
+  'api.steampowered.com',
+  'steamcdn-a.akamaihd.net',
+  'cdn.akamai.steamstatic.com',
+  'community.akamai.steamstatic.com',
+  'store.akamai.steamstatic.com',
+  'cdn.cloudflare.steamstatic.com',
+  'steam-chat.com'
 ];
 
 const headers = {
